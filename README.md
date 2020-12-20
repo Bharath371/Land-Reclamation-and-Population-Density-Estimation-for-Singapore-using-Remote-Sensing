@@ -1,7 +1,7 @@
 # Land-Reclamation-and-Population-Density-Estimation-for-Singapore-using-Remote-Sensing
 Course project for MECE E4520 : Data Science for Mechanical Systems
 
-**NOTE: **
+**NOTE:** 
 The files "Landsat8_image_processing_initial_experimentation.ipynb" and "Landsat_Image_processing_final_experiments.ipynb" files are very large and hence cannot be previewed.
 Please download the .ipynb files or the .html files of the same to view them.
 
