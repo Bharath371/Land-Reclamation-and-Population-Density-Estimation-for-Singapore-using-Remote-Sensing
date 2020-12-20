@@ -2,7 +2,7 @@
 Course project for MECE E4520 : Data Science for Mechanical Systems
 
 **NOTE:** 
-The files "Landsat8_image_processing_initial_experimentation.ipynb" and "Landsat_Image_processing_final_experiments.ipynb" files are very large and hence cannot be previewed.
+The files "Landsat8_image_processing_initial_experimentation.ipynb" and "Landsat_Image_processing_final_experiments.ipynb" files are very large and hence may not be previewed.
 Please download the .ipynb files or the .html files of the same to view them.
 
 Land Reclamation analysis is done by operating on Landsat images to extract information to keep track of Land area of Singapore (SG) over the years.
